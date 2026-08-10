@@ -1,142 +1,175 @@
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Dancing+Script:wght@700&family=Lobster&family=Satisfy&family=Great+Vibes&family=Bangers&display=swap" rel="stylesheet">
+
 <p align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GRAPHICAL HEADER BANNER                      -->
+<!--                    GRAPHICAL HEADER BANNER                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Dancing+Script:wght@700&family=Lobster&family=Satisfy&family=Great+Vibes&display=swap" rel="stylesheet">
-
 <div style="
-  background: linear-gradient(135deg, #000000 0%, #1a0000 50%, #0d0d0d 100%);
-  padding: 50px 30px;
-  border-radius: 0px;
-  border: none;
+  background: linear-gradient(180deg, #000000 0%, #1a0000 30%, #0d0000 70%, #000000 100%);
+  padding: 40px 20px;
   margin: 0;
   position: relative;
   overflow: hidden;
-  box-shadow: 0 10px 40px rgba(255, 0, 0, 0.3), 0 0 100px rgba(255, 0, 0, 0.1);
 ">
 
-<!-- Decorative Elements -->
-<div style="position: absolute; top: 10px; left: 20px; font-size: 24px; opacity: 0.3;">✦</div>
-<div style="position: absolute; top: 20px; right: 30px; font-size: 18px; opacity: 0.3;">✦</div>
-<div style="position: absolute; bottom: 15px; left: 40px; font-size: 20px; opacity: 0.3;">✦</div>
-<div style="position: absolute; bottom: 10px; right: 50px; font-size: 22px; opacity: 0.3;">✦</div>
+<!-- Decorative Corner Elements -->
+<div style="position: absolute; top: 5px; left: 5px; color: #FF0000; font-size: 20px; opacity: 0.6;">★</div>
+<div style="position: absolute; top: 5px; right: 5px; color: #FF0000; font-size: 20px; opacity: 0.6;">★</div>
+<div style="position: absolute; bottom: 5px; left: 5px; color: #FF0000; font-size: 20px; opacity: 0.6;">★</div>
+<div style="position: absolute; bottom: 5px; right: 5px; color: #FF0000; font-size: 20px; opacity: 0.6;">★</div>
 
-<!-- Profile Image -->
-<div style="text-align: center; margin-bottom: 25px;">
-  <img src="https://res.cloudinary.com/dszboz3se/image/upload/v1786358847/Asset_2_cghy5r.png" 
-       width="160" height="160" 
-       style="
-         border-radius: 50%; 
-         border: 5px solid #FF0000; 
-         box-shadow: 0 0 30px rgba(255, 0, 0, 0.6), 0 0 60px rgba(255, 0, 0, 0.3);
-       " 
-       alt="Joseph Thuo">
+<!-- ASCII Art Frame -->
+<pre style="color: #FF0000; text-align: center; margin: 0 0 20px 0; font-size: 10px; line-height: 1.0; text-shadow: 0 0 10px rgba(255,0,0,0.5);">
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                       ║
+║    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    ║
+║    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█    ║
+║    █░░███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█    ║
+║    █░░██░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█    ║
+║    █░░██░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█    ║
+║    █░░███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█    ║
+║    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█    ║
+║    █░░███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█    ║
+║    █░░██░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█    ║
+║    █░░██░░░░██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█    ║
+║    █░░███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█    ║
+║    █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█    ║
+║    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀    ║
+║                                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════════════════════╝
+</pre>
+
+<!-- Profile Photo with Heavy Glow -->
+<div style="text-align: center; margin: 25px 0;">
+  <div style="display: inline-block; padding: 8px; background: linear-gradient(135deg, #FF0000, #8B0000, #FF0000); border-radius: 50%; box-shadow: 0 0 30px #FF0000, 0 0 60px rgba(255,0,0,0.5), 0 0 90px rgba(255,0,0,0.3);">
+    <img src="https://res.cloudinary.com/dszboz3se/image/upload/v1786358847/Asset_2_cghy5r.png" 
+         width="150" height="150" 
+         style="border-radius: 50%; border: 4px solid #000000; display: block;"
+         alt="Joseph Thuo">
+  </div>
 </div>
 
-<!-- Main Title - Brush Font -->
+<!-- Main Name - Big Brush Style -->
 <h1 style="
-  font-family: 'Pacifico', cursive;
-  font-size: 72px;
+  font-family: 'Bangers', cursive;
+  font-size: 80px;
   color: #FF0000;
   text-shadow: 
-    3px 3px 0px #000000,
-    6px 6px 0px rgba(255, 0, 0, 0.5),
-    0 0 40px rgba(255, 0, 0, 0.8);
-  margin: 0 0 10px 0;
+    4px 4px 0px #000000,
+    -2px -2px 0px #000000,
+    0px 0px 30px rgba(255, 0, 0, 0.8),
+    0px 0px 60px rgba(255, 0, 0, 0.4);
+  margin: 20px 0 5px 0;
   text-align: center;
-  letter-spacing: 3px;
+  letter-spacing: 8px;
+  line-height: 1;
 ">
-  Joseph Thuo
+  ★ JOSEPH THUO ★
 </h1>
 
-<!-- Subtitle - Brush Font -->
-<h2 style="
-  font-family: 'Dancing Script', cursive;
-  font-size: 36px;
-  color: #FFFFFF;
-  text-shadow: 2px 2px 0px #FF0000, 0 0 20px rgba(255, 0, 0, 0.5);
-  margin: 0 0 20px 0;
+<!-- Subtitle -->
+<p style="
+  font-family: 'Pacifico', cursive;
+  font-size: 32px;
+  color: #FFD700;
+  text-shadow: 2px 2px 0px #000000, 0 0 20px rgba(255, 215, 0, 0.5);
+  margin: 10px 0 20px 0;
   text-align: center;
-  font-weight: 700;
 ">
   ~ Digital Product Builder ~
-</h2>
-
-<!-- Brand Name -->
-<p style="
-  font-family: 'Lobster', cursive;
-  font-size: 28px;
-  color: #FF0000;
-  text-shadow: 2px 2px 0px #000000;
-  margin: 0 0 15px 0;
-  text-align: center;
-">
-  ◆ ◇ ◆ DAYA MIDEA ◇ ◆
 </p>
+
+<!-- Brand Name Box -->
+<div style="
+  display: inline-block;
+  background: linear-gradient(135deg, #1a0000 0%, #0d0000 100%);
+  padding: 12px 40px;
+  border: 3px solid #FF0000;
+  border-radius: 5px;
+  box-shadow: 0 0 20px rgba(255, 0, 0, 0.4), inset 0 0 20px rgba(255, 0, 0, 0.1);
+  margin: 10px 0;
+">
+  <span style="
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    color: #FF0000;
+    text-shadow: 2px 2px 0px #000000;
+  ">
+    ◆ ◇ ◆ DAYA MIDEA ◇ ◆
+  </span>
+</div>
 
 <!-- Role Tags -->
 <p style="
   font-family: 'Satisfy', cursive;
-  font-size: 22px;
-  color: #CCCCCC;
+  font-size: 24px;
+  color: #FFFFFF;
   text-shadow: 1px 1px 0px #FF0000;
-  margin: 10px 0;
+  margin: 20px 0;
   text-align: center;
-  line-height: 1.8;
+  line-height: 1.6;
 ">
-  ✦ Full-Stack Developer ✦ UI/UX Designer ✦ Digital Creator ✦
+  ✦ Full-Stack Developer ✦<br>
+  ✦ UI/UX Designer ✦<br>
+  ✦ Digital Creator ✦
 </p>
 
 <!-- Location -->
 <p style="
   font-family: 'Great Vibes', cursive;
-  font-size: 24px;
+  font-size: 28px;
   color: #FF0000;
-  text-shadow: 1px 1px 0px #000000;
-  margin: 15px 0 20px 0;
+  text-shadow: 2px 2px 0px #000000;
+  margin: 15px 0 25px 0;
   text-align: center;
 ">
   🌍 Nairobi, Kenya 🇰🇪
 </p>
 
-<!-- Stats Row -->
-<p style="text-align: center; margin: 20px 0 0 0;">
-  <img src="https://komarev.com/ghpvc/?username=Xentoz95&color=FF0000&style=for-the-badge" style="vertical-align: middle;">
-  <img src="https://img.shields.io/github/followers/Xentoz95?style=for-the-badge&color=FF0000" style="vertical-align: middle; margin-left: 10px;">
-  <img src="https://img.shields.io/github/stars/Xentoz95?style=for-the-badge&color=FFD700" style="vertical-align: middle; margin-left: 10px;">
+<!-- Stats -->
+<p style="text-align: center; margin: 15px 0;">
+  <span style="background: #0d0000; padding: 8px 15px; border: 2px solid #FF0000; border-radius: 20px; margin: 0 5px; display: inline-block;">
+    <img src="https://komarev.com/ghpvc/?username=Xentoz95&color=FF0000&style=for-the-badge" style="vertical-align: middle;">
+  </span>
+  <span style="background: #0d0000; padding: 8px 15px; border: 2px solid #FFD700; border-radius: 20px; margin: 0 5px; display: inline-block;">
+    <img src="https://img.shields.io/github/followers/Xentoz95?style=for-the-badge&color=FFD700" style="vertical-align: middle;">
+  </span>
+  <span style="background: #0d0000; padding: 8px 15px; border: 2px solid #FF0000; border-radius: 20px; margin: 0 5px; display: inline-block;">
+    <img src="https://img.shields.io/github/stars/Xentoz95?style=for-the-badge&color=FF0000" style="vertical-align: middle;">
+  </span>
 </p>
 
 </div>
+
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    SOCIAL LINKS BAR                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div style="background: #0d0d0d; padding: 20px; text-align: center; border-bottom: 3px solid #FF0000;">
+<div style="background: #0d0000; padding: 18px; text-align: center; border-top: 3px solid #FF0000; border-bottom: 3px solid #FF0000; box-shadow: 0 5px 20px rgba(255,0,0,0.3);">
 
-<a href="https://github.com/Xentoz95" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px;"></a>
-<a href="https://linkedin.com/in/josephthuo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px;"></a>
-<a href="https://twitter.com/josephthuo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin: 5px;"></a>
-<a href="https://instagram.com/daya_idea" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px;"></a>
-<a href="mailto:joseph@dayamidea.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 5px;"></a>
-<a href="https://dayamidea.com" target="_blank"><img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=internet&logoColor=white" alt="Website" style="margin: 5px;"></a>
+<a href="https://github.com/Xentoz95" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px; border: 1px solid #FF0000;"></a>
+<a href="https://linkedin.com/in/josephthuo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px; border: 1px solid #FF0000;"></a>
+<a href="https://twitter.com/josephthuo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin: 5px; border: 1px solid #FF0000;"></a>
+<a href="https://instagram.com/daya_idea" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px; border: 1px solid #FF0000;"></a>
+<a href="mailto:joseph@dayamidea.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 5px; border: 1px solid #FF0000;"></a>
+<a href="https://dayamidea.com" target="_blank"><img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=internet&logoColor=white" alt="Website" style="margin: 5px; border: 1px solid #FF0000;"></a>
 
 </div>
-
-</p>
 
 ---
 
 ## ⚡ About Me
 
 <div style="
-  background: linear-gradient(135deg, #0d0d0d 0%, #1a0505 50%, #0d0d0d 100%);
-  padding: 30px;
-  border-radius: 10px;
+  background: linear-gradient(135deg, #0d0000 0%, #1a0505 50%, #0d0000 100%);
+  padding: 25px;
+  border-radius: 5px;
   border: 2px solid #FF0000;
-  box-shadow: 0 0 20px rgba(255, 0, 0, 0.2);
+  box-shadow: 0 0 20px rgba(255, 0, 0, 0.2), inset 0 0 30px rgba(255, 0, 0, 0.05);
   margin: 25px 0;
 ">
 
@@ -144,7 +177,7 @@
   font-family: 'Georgia', serif;
   color: #e0e0e0;
   font-size: 16px;
-  line-height: 1.9;
+  line-height: 1.8;
   margin: 0;
 ">
 I am <span style="color: #FF0000; font-weight: bold; font-size: 18px;">Joseph Thuo</span>, a Full-Stack Developer and Digital Creator from <span style="color: #FFD700;">Kenya 🇰🇪</span> building modern digital experiences through code, design, and creativity.
@@ -154,7 +187,7 @@ I am <span style="color: #FF0000; font-weight: bold; font-size: 18px;">Joseph Th
   font-family: 'Georgia', serif;
   color: #e0e0e0;
   font-size: 16px;
-  line-height: 1.9;
+  line-height: 1.8;
   margin: 15px 0 0 0;
 ">
 I founded <span style="color: #FF0000; font-weight: bold; font-size: 18px;">DAYA MIDEA</span> — a creative technology brand helping businesses and individuals grow through software development, UI/UX design, branding, and digital solutions.
@@ -184,20 +217,14 @@ const joseph = {
 
 <!-- &&& FEATURED_PROJECTS_START &&& -->
 
-<div style="
-  display: grid; 
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
-  gap: 25px; 
-  margin: 25px 0;
-">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 25px 0;">
 
 <div style="
-  background: linear-gradient(135deg, #0d0d0d 0%, #1a0505 100%);
-  padding: 25px;
-  border-radius: 10px;
+  background: linear-gradient(135deg, #0d0000 0%, #1a0505 100%);
+  padding: 20px;
+  border-radius: 5px;
   border: 2px solid #FF0000;
   box-shadow: 0 0 15px rgba(255, 0, 0, 0.2);
-  transition: transform 0.3s ease;
 ">
 
 ### 🏛️ ChurchFlow
@@ -213,9 +240,9 @@ A comprehensive system helping churches manage members, attendance, departments,
 </div>
 
 <div style="
-  background: linear-gradient(135deg, #0d0d0d 0%, #1a0505 100%);
-  padding: 25px;
-  border-radius: 10px;
+  background: linear-gradient(135deg, #0d0000 0%, #1a0505 100%);
+  padding: 20px;
+  border-radius: 5px;
   border: 2px solid #FF0000;
   box-shadow: 0 0 15px rgba(255, 0, 0, 0.2);
 ">
@@ -233,9 +260,9 @@ An all-in-one appointment booking and management platform for beauty salons.
 </div>
 
 <div style="
-  background: linear-gradient(135deg, #0d0d0d 0%, #1a0505 100%);
-  padding: 25px;
-  border-radius: 10px;
+  background: linear-gradient(135deg, #0d0000 0%, #1a0505 100%);
+  padding: 20px;
+  border-radius: 5px;
   border: 2px solid #FF0000;
   box-shadow: 0 0 15px rgba(255, 0, 0, 0.2);
 ">
@@ -253,9 +280,9 @@ Connecting customers with trusted cleaners and professional service providers.
 </div>
 
 <div style="
-  background: linear-gradient(135deg, #0d0d0d 0%, #1a0505 100%);
-  padding: 25px;
-  border-radius: 10px;
+  background: linear-gradient(135deg, #0d0000 0%, #1a0505 100%);
+  padding: 20px;
+  border-radius: 5px;
   border: 2px solid #FF0000;
   box-shadow: 0 0 15px rgba(255, 0, 0, 0.2);
 ">
@@ -281,9 +308,9 @@ AI-powered personal finance app helping users track spending, savings, and finan
 ## 🛠️ Tech Stack
 
 <div style="
-  background: linear-gradient(135deg, #0d0d0d 0%, #1a0505 50%, #0d0d0d 100%);
+  background: linear-gradient(135deg, #0d0000 0%, #1a0505 50%, #0d0000 100%);
   padding: 25px;
-  border-radius: 10px;
+  border-radius: 5px;
   border: 2px solid #FF0000;
   box-shadow: 0 0 20px rgba(255, 0, 0, 0.15);
   margin: 25px 0;
@@ -332,17 +359,12 @@ AI-powered personal finance app helping users track spending, savings, and finan
 
 ## 📊 GitHub Statistics
 
-<div style="
-  display: grid; 
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); 
-  gap: 20px; 
-  margin: 25px 0;
-">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 25px 0;">
 
 <div style="
-  background: linear-gradient(135deg, #0d0d0d 0%, #1a0505 100%);
+  background: linear-gradient(135deg, #0d0000 0%, #1a0505 100%);
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 5px;
   border: 2px solid #FF0000;
   box-shadow: 0 0 15px rgba(255, 0, 0, 0.2);
   text-align: center;
@@ -353,9 +375,9 @@ AI-powered personal finance app helping users track spending, savings, and finan
 </div>
 
 <div style="
-  background: linear-gradient(135deg, #0d0d0d 0%, #1a0505 100%);
+  background: linear-gradient(135deg, #0d0000 0%, #1a0505 100%);
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 5px;
   border: 2px solid #FFD700;
   box-shadow: 0 0 15px rgba(255, 215, 0, 0.2);
   text-align: center;
@@ -368,9 +390,9 @@ AI-powered personal finance app helping users track spending, savings, and finan
 </div>
 
 <div style="
-  background: linear-gradient(135deg, #0d0d0d 0%, #1a0505 100%);
+  background: linear-gradient(135deg, #0d0000 0%, #1a0505 100%);
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 5px;
   border: 2px solid #FF0000;
   box-shadow: 0 0 15px rgba(255, 0, 0, 0.2);
   text-align: center;
@@ -382,9 +404,9 @@ AI-powered personal finance app helping users track spending, savings, and finan
 </div>
 
 <div style="
-  background: linear-gradient(135deg, #0d0d0d 0%, #1a0505 100%);
+  background: linear-gradient(135deg, #0d0000 0%, #1a0505 100%);
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 5px;
   border: 2px solid #FFD700;
   box-shadow: 0 0 15px rgba(255, 215, 0, 0.2);
   text-align: center;
@@ -400,9 +422,9 @@ AI-powered personal finance app helping users track spending, savings, and finan
 ## 🎯 Current Focus
 
 <div style="
-  background: linear-gradient(135deg, #0d0d0d 0%, #1a0505 50%, #0d0d0d 100%);
+  background: linear-gradient(135deg, #0d0000 0%, #1a0505 50%, #0d0000 100%);
   padding: 25px;
-  border-radius: 10px;
+  border-radius: 5px;
   border: 2px solid #FF0000;
   box-shadow: 0 0 20px rgba(255, 0, 0, 0.2);
   margin: 25px 0;
@@ -435,28 +457,28 @@ const currentFocus = {
 ## ◆ ◇ ◆ Connect With Me ◇ ◆
 
 <div style="
-  background: linear-gradient(135deg, #0d0d0d 0%, #1a0505 100%);
-  padding: 30px;
-  border-radius: 10px;
+  background: linear-gradient(135deg, #0d0000 0%, #1a0505 100%);
+  padding: 25px;
+  border-radius: 5px;
   border: 3px solid #FF0000;
   box-shadow: 0 0 25px rgba(255, 0, 0, 0.3);
   margin: 25px 0;
   text-align: center;
 ">
 
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 15px;">
 
-<a href="https://github.com/Xentoz95"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 8px;"></a>
-<a href="https://linkedin.com/in/josephthuo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 8px;"></a>
-<a href="https://twitter.com/josephthuo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin: 8px;"></a>
-<a href="https://instagram.com/daya_idea"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 8px;"></a>
+<a href="https://github.com/Xentoz95"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px; border: 2px solid #FF0000;"></a>
+<a href="https://linkedin.com/in/josephthuo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 5px; border: 2px solid #FF0000;"></a>
+<a href="https://twitter.com/josephthuo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin: 5px; border: 2px solid #FF0000;"></a>
+<a href="https://instagram.com/daya_idea"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px; border: 2px solid #FF0000;"></a>
 
 </div>
 
 <div>
 
-<a href="mailto:joseph@dayamidea.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 8px;"></a>
-<a href="https://dayamidea.com"><img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=internet&logoColor=white" alt="Website" style="margin: 8px;"></a>
+<a href="mailto:joseph@dayamidea.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin: 5px; border: 2px solid #FF0000;"></a>
+<a href="https://dayamidea.com"><img src="https://img.shields.io/badge/Website-FF0000?style=for-the-badge&logo=internet&logoColor=white" alt="Website" style="margin: 5px; border: 2px solid #FF0000;"></a>
 
 </div>
 
@@ -466,11 +488,16 @@ const currentFocus = {
 
 > <p style="
   font-family: 'Dancing Script', cursive;
-  font-size: 24px;
+  font-size: 26px;
   color: #FF0000;
   text-shadow: 2px 2px 0px #000000;
   text-align: center;
   padding: 20px;
+  margin: 20px 0;
+  background: linear-gradient(135deg, #0d0000 0%, #1a0505 100%);
+  border: 2px solid #FF0000;
+  border-radius: 5px;
+  box-shadow: 0 0 20px rgba(255, 0, 0, 0.2);
 ">
   "I don't just write code. I design solutions that change how people work, connect, and grow."
 </p>
@@ -478,9 +505,9 @@ const currentFocus = {
 ---
 
 <div style="
-  background: linear-gradient(135deg, #000000 0%, #1a0000 50%, #000000 100%);
+  background: linear-gradient(180deg, #000000 0%, #1a0000 30%, #0d0000 70%, #000000 100%);
   padding: 40px 30px;
-  border-radius: 10px;
+  border-radius: 5px;
   border: 3px solid #FF0000;
   box-shadow: 0 0 40px rgba(255, 0, 0, 0.4), 0 0 80px rgba(255, 0, 0, 0.1);
   text-align: center;
@@ -488,18 +515,19 @@ const currentFocus = {
 ">
 
 <h2 style="
-  font-family: 'Pacifico', cursive;
-  font-size: 48px;
+  font-family: 'Bangers', cursive;
+  font-size: 56px;
   color: #FF0000;
-  text-shadow: 3px 3px 0px #000000, 0 0 30px rgba(255, 0, 0, 0.8);
+  text-shadow: 4px 4px 0px #000000, 0 0 30px rgba(255, 0, 0, 0.8);
   margin: 0 0 15px 0;
+  letter-spacing: 5px;
 ">
-  ◆ THANK YOU ◇
+  ★ THANK YOU ★
 </h2>
 
 <p style="
   font-family: 'Dancing Script', cursive;
-  font-size: 26px;
+  font-size: 28px;
   color: #FFD700;
   text-shadow: 2px 2px 0px #000000;
   margin: 10px 0;
@@ -518,7 +546,7 @@ const currentFocus = {
 
 <p style="
   font-family: 'Great Vibes', cursive;
-  font-size: 28px;
+  font-size: 30px;
   color: #FF0000;
   text-shadow: 2px 2px 0px #000000;
   margin: 20px 0 0 0;

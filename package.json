@@ -1,0 +1,11 @@
+{
+  "name": "daya-midea-profile",
+  "version": "1.0.0",
+  "description": "DAYA MIDEA - Joseph Thuo's GitHub Profile",
+  "scripts": {
+    "update-projects": "node scripts/update-projects.js"
+  },
+  "keywords": ["github-profile", "readme", "automation"],
+  "author": "Joseph Thuo",
+  "license": "MIT"
+}

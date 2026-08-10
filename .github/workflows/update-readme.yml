@@ -1,0 +1,80 @@
+name: Update README with Latest Activity
+
+on:
+  schedule:
+    # Run every day at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Allows manual trigger
+
+permissions:
+  contents: write
+  repository-projects: read
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get top repositories
+        id: get-repos
+        run: |
+          # Get user's top 6 repositories by stars (excluding forks)
+          REPOS=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            "https://api.github.com/user/repos?sort=updated&direction=desc&per_page=100" | \
+            jq -r '.[] | select(.fork == false) | "\(.full_name)|\(.description|\(.stargazers_count))"' | \
+            head -n 6)
+
+          echo "repos=$REPOS" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          # Create projects section dynamically
+          PROJECTS_BLOCK=""
+
+          while IFS='|' read -r name desc stars; do
+            if [ ! -z "$name" ]; then
+              # Clean description (handle nulls and special chars)
+              desc=$(echo "$desc" | sed 's/null/No description/g' | tr -d '"')
+              stars=$(echo "$stars" | tr -d ' ')
+
+              PROJECTS_BLOCK+="### 📦 $name\n"
+              PROJECTS_BLOCK+="> $desc\n\n"
+              PROJECTS_BLOCK+="**⭐ $stars stars**\n\n"
+              PROJECTS_BLOCK+="[![View Project](https://img.shields.io/badge/View_on_GitHub-10B981?style=flat-square)](https://github.com/$name)\n\n"
+              PROJECTS_BLOCK+="---\n\n"
+            fi
+          done <<< "${{ steps.get-repos.outputs.repos }}"
+
+          # Read current README
+          README=$(cat README.md)
+
+          # Find and replace the Featured Projects section
+          # Using sed to replace between markers
+          awk -v projects="$PROJECTS_BLOCK" '
+            /\&\&\& FEATURED_PROJECTS_START \&\&\&/ {
+              print "&&& FEATURED_PROJECTS_START &&&"
+              print ""
+              print "<!-- Auto-generated projects will appear below -->"
+              print ""
+              gsub(/\\n/, "\n", projects)
+              print projects
+              skip=1
+            }
+            /\&\&\& FEATURED_PROJECTS_END \&\&\&/ {
+              skip=0
+            }
+            !skip { print }
+          ' README.md > README_new.md
+
+          mv README_new.md README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --staged --quiet || git commit -m "🤖 Auto-update featured projects [skip ci]"
+          git push

@@ -1,59 +1,29 @@
-# Joseph Thuo | Digital Product Builder 🚀
+# Joseph Thuo
+
+### 👨🏽‍💻 Full-Stack Developer | UI/UX Designer | Digital Product Creator | Founder of DAYA MIDEA
+
+🇰🇪 Nairobi, Kenya
+
+---
 
 <div align="center">
 
-```
-░██████╗██╗░░██╗░█████╗░██████╗░░█████╗░░██╗░░░░░░░██╗███╗░░░███╗███████╗██████╗░███████╗
-██╔════╝██║░░██║██╔══██╗██╔══██╗██╔══██╗░██║░░██╗░░██║████╗░████║██╔════╝██╔══██╗██╔════╝
-╚█████╗░███████║███████║██║░░██║██║░░██║░╚██╗████╗██╔╝██╔████╔██║█████╗░░██████╔╝█████╗░░
-░╚═══██╗██╔══██║██╔══██║██║░░██║██║░░██║░░████╔═████║░██║╚██╔╝██║██╔══╝░░██╔══██╗██╔══╝░░
-██████╔╝██║░░██║██║░░██║██████╔╝╚█████╔╝░░╚██╔╝░╚██╔╝░██║░╚═╝░██║███████╗██║░░██║███████╗
-╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░░╚════╝░░░░╚═╝░░░╚═╝░░╚═╝░░░░░╚═╝╚══════╝╚═╝░░╚═╝╚══════╝
-```
+![Profile Views](https://komarev.com/ghpvc/?username=Xentoz95&color=2D3748&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/Xentoz95?style=for-the-badge&color=2D3748)](https://github.com/Xentoz95)
 
 </div>
+
+---
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dszboz3se/image/upload/v1786358847/Asset_2_cghy5r.png" width="180" height="180" style="border-radius: 50%; border: 5px solid #10B981;" alt="Joseph Thuo">
+  <img src="https://res.cloudinary.com/dszboz3se/image/upload/v1786358847/Asset_2_cghy5r.png" width="180" height="180" style="border-radius: 50%; border: 6px solid #10B981; box-shadow: 0 4px 20px rgba(16, 185, 129, 0.3);" alt="Joseph Thuo">
 </p>
 
-<div align="center">
-
-# 👨🏽‍💻 Full-Stack Developer | UI/UX Designer | Digital Product Creator
-
-### 🚀 Founder of [DAYA MIDEA](https://dayamidea.com)
-
-#### 🇰🇪 Nairobi, Kenya
-
-</div>
-
 ---
 
-<div align="center">
+## About Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Xentoz95)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/josephthuo)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/josephthuo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/daya_idea)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joseph@dayamidea.com)
-[![Website](https://img.shields.io/badge/Website-4F46E5?style=flat-square&logo=internet&logoColor=white)](https://dayamidea.com)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Xentoz95&color=10B981&style=for-the-badge)
-[![GitHub Followers](https://img.shields.io/github/followers/Xentoz95?style=for-the-badge&color=10B981)](https://github.com/Xentoz95)
-
-</div>
-
----
-
-## 👨🏽‍💻 About Me
-
-Hello, I'm **Joseph Thuo**.
-
-I am a Full-Stack Developer and Digital Creator from **Kenya 🇰🇪**, building modern digital experiences through code, design, and creativity.
+Hello, I'm **Joseph Thuo** — a Full-Stack Developer and Digital Creator from **Kenya 🇰🇪**, building modern digital experiences through code, design, and creativity.
 
 I founded **DAYA MIDEA**, a creative technology brand focused on helping businesses and individuals grow through:
 
@@ -68,7 +38,7 @@ const joseph = {
   name: "Joseph Thuo",
   brand: "DAYA MIDEA",
   role: "Full-Stack Developer & Digital Creator",
-  location: "Kenya 🇰🇪",
+  location: "Nairobi, Kenya 🇰🇪",
   skills: [
     "React", "Next.js", "TypeScript", "JavaScript",
     "Tailwind CSS", "Node.js", "Express.js",
@@ -81,7 +51,7 @@ const joseph = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <!-- &&& FEATURED_PROJECTS_START &&& -->
 
@@ -92,7 +62,7 @@ A system helping churches manage members, attendance, departments, communication
 
 **Tech Stack:** `React` `TypeScript` `Tailwind` `Supabase`
 
-[![View Project](https://img.shields.io/badge/View_Project-10B981?style=flat-square)](https://github.com/Xentoz95/churchflow)
+[![View Project](https://img.shields.io/badge/View_on_GitHub-10B981?style=flat-square)](https://github.com/Xentoz95/churchflow)
 
 ---
 
@@ -103,7 +73,7 @@ Appointment booking and management platform for salons.
 
 **Tech Stack:** `React` `Express.js` `InstantDB`
 
-[![View Project](https://img.shields.io/badge/View_Project-10B981?style=flat-square)](https://github.com/Xentoz95/nailmaster)
+[![View Project](https://img.shields.io/badge/View_on_GitHub-10B981?style=flat-square)](https://github.com/Xentoz95/nailmaster)
 
 ---
 
@@ -114,7 +84,7 @@ Connecting customers with trusted cleaners and service providers.
 
 **Tech Stack:** `React` `TypeScript` `Supabase`
 
-[![View Project](https://img.shields.io/badge/View_Project-10B981?style=flat-square)](https://github.com/Xentoz95/cleanconnect)
+[![View Project](https://img.shields.io/badge/View_on_GitHub-10B981?style=flat-square)](https://github.com/Xentoz95/cleanconnect)
 
 ---
 
@@ -125,16 +95,15 @@ Helping users track spending, savings and financial goals with AI-powered insigh
 
 **Tech Stack:** `React` `Firebase` `AI`
 
-[![View Project](https://img.shields.io/badge/View_Project-10B981?style=flat-square)](https://github.com/Xentoz95/trackmypesa)
+[![View Project](https://img.shields.io/badge/View_on_GitHub-10B981?style=flat-square)](https://github.com/Xentoz95/trackmypesa)
 
 <!-- &&& FEATURED_PROJECTS_END &&& -->
 
 ---
 
-## 🧠 Skills & Technologies
+## Skills & Technologies
 
 ### 💻 Development
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -147,23 +116,20 @@ Helping users track spending, savings and financial goals with AI-powered insigh
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🗄️ Backend & Database
-
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 🎨 Design & Creative
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-FF6B6B?style=flat-square)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-FF6B6B?style=flat-square)
 ![Branding](https://img.shields.io/badge/Branding-4ECDC4?style=flat-square)
 
 ### ☁️ Cloud & DevOps
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -172,7 +138,7 @@ Helping users track spending, savings and financial goals with AI-powered insigh
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -189,9 +155,7 @@ Helping users track spending, savings and financial goals with AI-powered insigh
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
+## Current Focus
 
 ```javascript
 const currentFocus = {
@@ -214,52 +178,34 @@ const currentFocus = {
 };
 ```
 
-</div>
-
 ---
 
-## 🤝 Let's Connect
+## Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/Xentoz95"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/josephthuo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/josephthuo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://instagram.com/daya_idea"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
-</div>
-
-<div align="center">
-
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joseph@dayamidea.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xentoz95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josephthuo)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/josephthuo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/daya_idea)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseph@dayamidea.com)
 [![Website](https://img.shields.io/badge/Website-4F46E5?style=for-the-badge&logo=internet&logoColor=white)](https://dayamidea.com)
 
 </div>
 
 ---
 
-> ## 💭 Quote
->
 > *"I don't just write code. I design solutions that change how people work, connect, and grow."*
 
 ---
 
 <div align="center">
 
-```
-░█████╗░░█████╗░██╗██╗░░░░░░█████╗░░██╗░░░░░░░██╗░█████╗░███╗░░██╗░██████╗
-██╔══██╗░██╔══██╗██║██║░░░░░██╔══██╗░██║░░██╗░░██║██╔══██╗████╗░██║██╔════╝
-██║░░╚═╝░██║░░██║╚═╝╚████████╗██║░░██║░╚██╗████╗██╔╝██║░░██║██╔████╔██║╚█████╗░
-██║░░██╗░██║░░██║██╗░░██╔═══╝░██║░░██║░░████╔═████║░██║░░██║██║╚██╔╝██║░╚═══██╗
-╚█████╔╝░╚█████╔╝██║░░██║░░░░░╚█████╔╝░░╚██╔╝░╚██╔╝░╚█████╔╝██║░╚═╝░██║██████╔╝
-░╚════╝░░░╚════╝░╚═╝░╚═╝░░░░░░░╚════╝░░░░╚═╝░░░╚═╝░░░╚════╝░╚═╝░░░░░╚═╝╚═════╝░
-```
-
 **Built by Joseph Thuo | DAYA MIDEA**
 
-*"A young African developer building digital products that solve real problems."*
+*A young African developer building digital products that solve real problems.*
 
-🇰🇪 *From Kenya with love*
+🇰🇪 From Kenya with love
 
 </div>
 

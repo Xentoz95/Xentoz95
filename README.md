@@ -1,64 +1,38 @@
-# ▓▒░ JOSEPH THUO ░▒▓
-
 <h1 align="center">
 
-## ◆━━━◆━━━◆━━━◆━━━◆
+<!-- HEADER START -->
+<a href="https://github.com/Xentoz95"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/josephthuo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/josephthuo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+<a href="https://instagram.com/daya_idea"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:joseph@dayamidea.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://dayamidea.com"><img src="https://img.shields.io/badge/Website-10B981?style=for-the-badge&logo=internet&logoColor=white" alt="Website"/></a>
 
-# DIGITAL PRODUCT BUILDER
+---
 
-## ◆━━━◆━━━◆━━━◆━━━◆
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0d0d0d 50%, #1a0a0a 100%); padding: 40px 20px; border-radius: 20px; border: 3px solid #FF4747; box-shadow: 0 0 40px rgba(255, 71, 71, 0.3), 0 0 80px rgba(255, 215, 0, 0.1); margin-bottom: 30px;">
 
+<h1 align="center" style="color: #FF4747; font-size: 48px; font-family: 'Segoe UI', Arial, sans-serif; text-shadow: 3px 3px 0px #FFD700, 6px 6px 0px rgba(255,71,71,0.5); margin: 0; letter-spacing: 4px;">
+◆ ◇ ◆ ◇ ◆ DAYA MIDEA ◆ ◇ ◆ ◇ ◆
 </h1>
 
-<p align="center">
+<h2 align="center" style="color: #FFD700; font-size: 28px; margin: 15px 0; letter-spacing: 8px; text-transform: uppercase;">
+— DIGITAL PRODUCT BUILDER —
+</h2>
 
-<a href="https://github.com/Xentoz95" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/josephthuo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://twitter.com/josephthuo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-<a href="https://instagram.com/daya_idea" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="mailto:joseph@dayamidea.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://dayamidea.com" target="_blank"><img src="https://img.shields.io/badge/Website-10B981?style=for-the-badge&logo=internet&logoColor=white" alt="Website"/></a>
-
+<p align="center" style="color: #ffffff; font-size: 16px; margin: 20px 0; opacity: 0.9;">
+<span style="color: #FF4747;">★</span> Full-Stack Developer <span style="color: #FF4747;">★</span> UI/UX Designer <span style="color: #FF4747;">★</span> Digital Creator <span style="color: #FF4747;">★</span>
 </p>
 
----
-
-<p align="center">
-
-<img src="https://res.cloudinary.com/dszboz3se/image/upload/v1786358847/Asset_2_cghy5r.png" width="200" height="200" style="border-radius: 50%; border: 8px solid #10B981; box-shadow: 0 0 30px rgba(16, 185, 129, 0.5), 0 0 60px rgba(16, 185, 129, 0.3);" alt="Joseph Thuo">
-
+<p align="center" style="color: #b3b3b3; font-size: 14px; margin: 10px 0;">
+🌍 Nairobi, Kenya 🇰🇪
 </p>
 
-<h3 align="center">
-
-◆ **Full-Stack Developer** ◆ **UI/UX Designer** ◆ **Digital Creator** ◆
-
-◆ **Founder of DAYA MIDEA** ◆ **Nairobi, Kenya 🇰🇪** ◆
-
-</h3>
-
 <p align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Xentoz95&color=10B981&style=for-the-badge)
-[![GitHub Followers](https://img.shields.io/github/followers/Xentoz95?style=for-the-badge&color=10B981)](https://github.com/Xentoz95)
-[![GitHub Stars](https://img.shields.io/github/stars/Xentoz95?style=for-the-badge&color=10B981)](https://github.com/Xentoz95)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Xentoz95&color=FF4747&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/Xentoz95?style=for-the-badge&color=FF4747)](https://github.com/Xentoz95)
+[![GitHub Stars](https://img.shields.io/github/stars/Xentoz95?style=for-the-badge&color=FFD700)](https://github.com/Xentoz95)
 </p>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  █████╗ ██╗     ███████╗██╗  ██╗    ██████╗  █████╗ ██████╗     ║
-║ ██╔══██╗██║     ██╔════╝╚██╗██╔╝    ██╔══██╗██╔══██╗██╔══██╗    ║
-║ ███████║██║     █████╗   ╚███╔╝     ██████╔╝███████║██████╔╝    ║
-║ ██╔══██║██║     ██╔══╝   ██╔██╗     ██╔══██╗██╔══██║██╔══██╗    ║
-║ ██║  ██║███████╗███████╗██╔╝ ██╗    ██║  ██║██║  ██║██║  ██║    ║
-║ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
@@ -66,9 +40,17 @@
 
 ## ⚡ About Me
 
-I am **Joseph Thuo**, a Full-Stack Developer and Digital Creator from **Kenya 🇰🇪** building modern digital experiences through code, design, and creativity.
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0d0d0d 100%); padding: 25px 30px; border-radius: 15px; border: 2px solid #9B59B6; box-shadow: 0 4px 20px rgba(155, 89, 182, 0.2); margin: 20px 0;">
 
-I founded **DAYA MIDEA** — a creative technology brand helping businesses and individuals grow through software development, UI/UX design, branding, and digital solutions.
+<p style="color: #e0e0e0; font-size: 15px; line-height: 1.8; margin: 0;">
+I am <span style="color: #FF4747; font-weight: bold;">Joseph Thuo</span>, a Full-Stack Developer and Digital Creator from <span style="color: #FFD700;">Kenya 🇰🇪</span> building modern digital experiences through code, design, and creativity.
+</p>
+
+<p style="color: #e0e0e0; font-size: 15px; line-height: 1.8; margin: 15px 0 0 0;">
+I founded <span style="color: #9B59B6; font-weight: bold;">DAYA MIDEA</span> — a creative technology brand helping businesses and individuals grow through software development, UI/UX design, branding, and digital solutions.
+</p>
+
+</div>
 
 ```javascript
 const joseph = {
@@ -88,26 +70,11 @@ const joseph = {
 
 ---
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║   ██████╗  █████╗ ███╗   ███╗███████╗     ██████╗ ██╗   ██╗███████╗██████╗     ║
-║  ██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔═══██╗██║   ██║██╔════╝██╔══██╗    ║
-║  ██║  ███╗███████║██╔████╔██║█████╗      ██║   ██║██║   ██║█████╗  ██████╔╝    ║
-║  ██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ██║   ██║╚██╗ ██╔╝██╔══╝  ██╔══██╗    ║
-║  ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ╚██████╔╝ ╚████╔╝ ███████╗██║  ██║    ║
-║   ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝     ╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═╝    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <!-- &&& FEATURED_PROJECTS_START &&& -->
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
 
 ### 🏛️ ChurchFlow
 > *Multi-Church Digital Administration Platform*
@@ -116,8 +83,8 @@ A comprehensive system helping churches manage members, attendance, departments,
 
 **Tech Stack:** `React` `TypeScript` `Tailwind CSS` `Supabase`
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-10B981?style=flat-square)](https://github.com/Xentoz95/churchflow)
-[![Stars](https://img.shields.io/github/stars/Xentoz95/churchflow?style=flat-square&color=10B981)](https://github.com/Xentoz95/churchflow)
+[![View Project](https://img.shields.io/badge/View_on_GitHub-FF4747?style=flat-square)](https://github.com/Xentoz95/churchflow)
+[![Stars](https://img.shields.io/github/stars/Xentoz95/churchflow?style=flat-square&color=FFD700)](https://github.com/Xentoz95/churchflow)
 
 ---
 
@@ -128,8 +95,8 @@ An all-in-one appointment booking and management platform for beauty salons.
 
 **Tech Stack:** `React` `Express.js` `InstantDB`
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-10B981?style=flat-square)](https://github.com/Xentoz95/nailmaster)
-[![Stars](https://img.shields.io/github/stars/Xentoz95/nailmaster?style=flat-square&color=10B981)](https://github.com/Xentoz95/nailmaster)
+[![View Project](https://img.shields.io/badge/View_on_GitHub-FF4747?style=flat-square)](https://github.com/Xentoz95/nailmaster)
+[![Stars](https://img.shields.io/github/stars/Xentoz95/nailmaster?style=flat-square&color=FFD700)](https://github.com/Xentoz95/nailmaster)
 
 ---
 
@@ -140,8 +107,8 @@ Connecting customers with trusted cleaners and professional service providers.
 
 **Tech Stack:** `React` `TypeScript` `Supabase`
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-10B981?style=flat-square)](https://github.com/Xentoz95/cleanconnect)
-[![Stars](https://img.shields.io/github/stars/Xentoz95/cleanconnect?style=flat-square&color=10B981)](https://github.com/Xentoz95/cleanconnect)
+[![View Project](https://img.shields.io/badge/View_on_GitHub-FF4747?style=flat-square)](https://github.com/Xentoz95/cleanconnect)
+[![Stars](https://img.shields.io/github/stars/Xentoz95/cleanconnect?style=flat-square&color=FFD700)](https://github.com/Xentoz95/cleanconnect)
 
 ---
 
@@ -152,31 +119,18 @@ AI-powered personal finance app helping users track spending, savings, and finan
 
 **Tech Stack:** `React` `Firebase` `AI Integration`
 
-[![View Project](https://img.shields.io/badge/View_on_GitHub-10B981?style=flat-square)](https://github.com/Xentoz95/trackmypesa)
-[![Stars](https://img.shields.io/github/stars/Xentoz95/trackmypesa?style=flat-square&color=10B981)](https://github.com/Xentoz95/trackmypesa)
+[![View Project](https://img.shields.io/badge/View_on_GitHub-FF4747?style=flat-square)](https://github.com/Xentoz95/trackmypesa)
+[![Stars](https://img.shields.io/github/stars/Xentoz95/trackmypesa?style=flat-square&color=FFD700)](https://github.com/Xentoz95/trackmypesa)
+
+</div>
 
 <!-- &&& FEATURED_PROJECTS_END &&& -->
 
 ---
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ██████╗ ███████╗███████╗██████╗  ██████╗  ██████╗  ██████╗███████╗    ║
-║  ██╔══██╗██╔════╝██╔════╝██╔══██╗██╔═══██╗██╔════╝██╔════╝██╔════╝    ║
-║  ██║  ██║█████╗  █████╗  ██████╔╝██║   ██║██║     ██║     █████╗      ║
-║  ██║  ██║██╔══╝  ██╔══╝  ██╔══██╗██║   ██║██║     ██║     ██╔══╝      ║
-║  ██████╔╝███████╗███████╗██║  ██║╚██████╔╝╚██████╗╚██████╗███████╗    ║
-║  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═════╝╚══════╝    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0d0d0d 100%); padding: 25px; border-radius: 15px; border: 2px solid #E74C3C; box-shadow: 0 4px 20px rgba(231, 76, 60, 0.15); margin: 20px 0;">
 
 ### 💻 Frontend Development
 
@@ -215,66 +169,45 @@ AI-powered personal finance app helping users track spending, savings, and finan
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║   ██████╗ ██╗      █████╗ ██╗  ██╗███████╗██████╗  ██████╗ ██╗   ██╗███████╗   ║
-║  ██╔════╝ ██║     ██╔══██╗╚██╗██╔╝██╔════╝██╔══██╗██╔═══██╗██║   ██║██╔════╝   ║
-║  ██║  ███╗██║     ███████║ ╚███╔╝ █████╗  ██████╔╝██║   ██║██║   ██║█████╗     ║
-║  ██║   ██║██║     ██╔══██║ ██╔██╗ ██╔══╝  ██╔══██╗██║   ██║╚██╗ ██╔╝██╔══╝     ║
-║  ╚██████╔╝███████╗██║  ██║██╔╝ ██╗███████╗██║  ██║╚██████╔╝ ╚████╔╝ ███████╗   ║
-║   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  ╚══════╝   ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xentoz95&show_icons=true&theme=transparent&hide_border=false&count_private=true&border_color=10B981&title_color=10B981&text_color=333"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xentoz95&layout=compact&theme=transparent&hide_border=false&border_color=10B981&title_color=10B981&text_color=333"/>
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0d0d0d 100%); padding: 20px; border-radius: 15px; border: 2px solid #9B59B6; box-shadow: 0 4px 20px rgba(155, 89, 182, 0.2); text-align: center;">
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xentoz95&theme=tokyo-night&hide_border=false&border=10B981&ring=10B981&fire=10B981&currStreakNum=333&sideNums=333&currStreakLabel=333&sideLabels=333&dates=333)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xentoz95&show_icons=true&theme=transparent&hide_border=false&count_private=true&border_color=FF4747&title_color=FF4747&text_color=ffffff"/>
 
 </div>
 
-<div align="center">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0d0d0d 100%); padding: 20px; border-radius: 15px; border: 2px solid #F39C12; box-shadow: 0 4px 20px rgba(243, 156, 18, 0.2); text-align: center;">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Xentoz95&theme=matrix&no-frame=true&no-bg=true&margin-w=15&border=10B981)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xentoz95&layout=compact&theme=transparent&hide_border=false&border_color=FFD700&title_color=FFD700&text_color=ffffff"/>
 
 </div>
 
----
+</div>
 
-<div align="center">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0d0d0d 100%); padding: 20px; border-radius: 15px; border: 2px solid #FF4747; box-shadow: 0 4px 20px rgba(255, 71, 71, 0.2); text-align: center; margin: 20px 0;">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║   ████████╗██╗  ██╗███████╗    ███████╗ ██████╗ ██████╗  ██████╗  ██████╗ ████████╗  ║
-║   ╚══██╔══╝██║  ██║██╔════╝    ██╔════╝██╔═══██╗██╔══██╗██╔════╝ ██╔═══██╗╚══██╔══╝  ║
-║      ██║   ███████║█████╗      █████╗  ██║   ██║██████╔╝██║  ███╗██║   ██║   ██║     ║
-║      ██║   ██╔══██║██╔══╝      ██╔══╝  ██║   ██║██╔══██╗██║   ██║██║   ██║   ██║     ║
-║      ██║   ██║  ██║███████╗    ██║     ╚██████╔╝██║  ██║╚██████╔╝╚██████╔╝   ██║     ║
-║      ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xentoz95&theme=tokyo-night&hide_border=false&border=FF4747&ring=FF4747&fire=FF4747&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)
+
+</div>
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0d0d0d 100%); padding: 20px; border-radius: 15px; border: 2px solid #FFD700; box-shadow: 0 4px 20px rgba(255, 215, 0, 0.2); text-align: center; margin: 20px 0;">
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Xentoz95&theme=matrix&no-frame=true&no-bg=true&margin-w=15&border=FF4747)
 
 </div>
 
 ---
 
 ## 🎯 Current Focus
+
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0d0d0d 100%); padding: 25px; border-radius: 15px; border: 2px solid #9B59B6; box-shadow: 0 4px 20px rgba(155, 89, 182, 0.2); margin: 20px 0;">
 
 ```javascript
 const currentFocus = {
@@ -296,28 +229,15 @@ const currentFocus = {
 };
 ```
 
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║   ████████╗██╗███╗   ███╗███████╗    ███████╗██████╗ ███████╗██████╗ ██╗   ██╗███████╗██████╗   ║
-║   ╚══██╔══╝██║████╗ ████║██╔════╝    ██╔════╝██╔══██╗██╔════╝██╔══██╗██║   ██║██╔════╝██╔══██╗  ║
-║      ██║   ██║██╔████╔██║█████╗      ███████╗██████╔╝█████╗  ██████╔╝██║   ██║█████╗  ██████╔╝  ║
-║      ██║   ██║██║╚██╔╝██║██╔══╝      ╚════██║██╔═══╝ ██╔══╝  ██╔══██╗██║   ██║██╔══╝  ██╔══██╗  ║
-║      ██║   ██║██║ ╚═╝ ██║███████╗    ███████║██║     ███████╗██████╔╝╚██████╔╝███████╗██║  ██║  ║
-║      ╚═╝   ╚═╝╚═╝     ╚═╝╚══════╝    ╚══════╝╚═╝     ╚══════╝╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## ◆ ◇ ◆ Let's Connect ◇ ◆
 
-<div align="center">
+<div style="background: linear-gradient(135deg, #1a1a1a 0%, #0d0d0d 100%); padding: 25px; border-radius: 15px; border: 2px solid #FF4747; box-shadow: 0 4px 20px rgba(255, 71, 71, 0.2); margin: 20px 0; text-align: center;">
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
 
 <a href="https://github.com/Xentoz95"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://linkedin.com/in/josephthuo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -328,27 +248,35 @@ const currentFocus = {
 
 </div>
 
+</div>
+
 ---
 
 > 💭 *"I don't just write code. I design solutions that change how people work, connect, and grow."*
 
 ---
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #1a0a0a 0%, #0d0d0d 50%, #1a1a0a 100%); padding: 30px; border-radius: 15px; border: 3px solid #FF4747; box-shadow: 0 0 30px rgba(255, 71, 71, 0.3); margin-top: 30px;">
 
-**◆━━━◆━━━◆━━━◆━━━◆━━━◆━━━◆━━━◆━━━◆━━━◆**
+<h2 style="color: #FF4747; font-size: 32px; font-family: 'Segoe UI', Arial, sans-serif; text-shadow: 2px 2px 0px #FFD700; margin: 0 0 15px 0; letter-spacing: 3px;">
+◆ ◇ ◆ ARIGATO ◇ ◆
+</h2>
 
-**Built with ❤️ by Joseph Thuo | DAYA MIDEA**
+<p style="color: #FFD700; font-size: 16px; margin: 10px 0;">
+Built with ❤️ by <span style="color: #FF4747; font-weight: bold;">Joseph Thuo</span> | <span style="color: #9B59B6;">DAYA MIDEA</span>
+</p>
 
+<p style="color: #b3b3b3; font-size: 14px; margin: 10px 0;">
 *A young African developer building digital products that solve real problems.*
+</p>
 
+<p style="color: #ffffff; font-size: 12px; margin: 15px 0 0 0;">
 🇰🇪 From Kenya with love
-
-**◆━━━◆━━━◆━━━◆━━━◆━━━◆━━━◆━━━◆━━━◆━━━◆**
+</p>
 
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
 
 ![Made with ❤️](https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)

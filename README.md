@@ -215,91 +215,10 @@ const joseph = {
 
 ## 🚀 Featured Projects
 
-<!-- &&& FEATURED_PROJECTS_START &&& -->
+&&& FEATURED_PROJECTS_START &&&
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 25px 0;">
+<!-- Auto-generated projects will appear below -->
 
-<div style="
-  background: linear-gradient(135deg, #0d0000 0%, #1a0505 100%);
-  padding: 20px;
-  border-radius: 5px;
-  border: 2px solid #FF0000;
-  box-shadow: 0 0 15px rgba(255, 0, 0, 0.2);
-">
-
-### 🏛️ ChurchFlow
-> *Multi-Church Digital Administration Platform*
-
-A comprehensive system helping churches manage members, attendance, departments, communication and reporting.
-
-**Tech Stack:** `React` `TypeScript` `Tailwind CSS` `Supabase`
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-FF0000?style=flat-square)](https://github.com/Xentoz95/churchflow)
-[![Stars](https://img.shields.io/github/stars/Xentoz95/churchflow?style=flat-square&color=FFD700)](https://github.com/Xentoz95/churchflow)
-
-</div>
-
-<div style="
-  background: linear-gradient(135deg, #0d0000 0%, #1a0505 100%);
-  padding: 20px;
-  border-radius: 5px;
-  border: 2px solid #FF0000;
-  box-shadow: 0 0 15px rgba(255, 0, 0, 0.2);
-">
-
-### 💅 NailMaster
-> *Beauty Salon Management System*
-
-An all-in-one appointment booking and management platform for beauty salons.
-
-**Tech Stack:** `React` `Express.js` `InstantDB`
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-FF0000?style=flat-square)](https://github.com/Xentoz95/nailmaster)
-[![Stars](https://img.shields.io/github/stars/Xentoz95/nailmaster?style=flat-square&color=FFD700)](https://github.com/Xentoz95/nailmaster)
-
-</div>
-
-<div style="
-  background: linear-gradient(135deg, #0d0000 0%, #1a0505 100%);
-  padding: 20px;
-  border-radius: 5px;
-  border: 2px solid #FF0000;
-  box-shadow: 0 0 15px rgba(255, 0, 0, 0.2);
-">
-
-### 🧹 CleanConnect
-> *Cleaning Services Marketplace*
-
-Connecting customers with trusted cleaners and professional service providers.
-
-**Tech Stack:** `React` `TypeScript` `Supabase`
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-FF0000?style=flat-square)](https://github.com/Xentoz95/cleanconnect)
-[![Stars](https://img.shields.io/github/stars/Xentoz95/cleanconnect?style=flat-square&color=FFD700)](https://github.com/Xentoz95/cleanconnect)
-
-</div>
-
-<div style="
-  background: linear-gradient(135deg, #0d0000 0%, #1a0505 100%);
-  padding: 20px;
-  border-radius: 5px;
-  border: 2px solid #FF0000;
-  box-shadow: 0 0 15px rgba(255, 0, 0, 0.2);
-">
-
-### 💰 TrackMyPesa
-> *Personal Finance Management Platform*
-
-AI-powered personal finance app helping users track spending, savings, and financial goals.
-
-**Tech Stack:** `React` `Firebase` `AI Integration`
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-FF0000?style=flat-square)](https://github.com/Xentoz95/trackmypesa)
-[![Stars](https://img.shields.io/github/stars/Xentoz95/trackmypesa?style=flat-square&color=FFD700)](https://github.com/Xentoz95/trackmypesa)
-
-</div>
-
-</div>
 
 <!-- &&& FEATURED_PROJECTS_END &&& -->
 
